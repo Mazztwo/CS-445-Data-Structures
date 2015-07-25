@@ -1,4 +1,4 @@
-// Alessio Mazzone	
+	
 // CS 445 Ramirez T,TH 230-345
 // Assignment 4
 // ReallyLongInt class. Extenrs the LinkedListPlus and adds more methods. Also uses comparable
