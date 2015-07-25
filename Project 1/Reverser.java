@@ -1,4 +1,4 @@
-// ALESSIO MAZZONE CS 0445 Spring 2014
+// CS 0445 Spring 2014
 
 
 // Assignment 1 Reverser interface
