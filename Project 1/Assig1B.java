@@ -1,5 +1,5 @@
 // CS 0445 Spring 2014
-// Alessio Mazzone Ramirez T TH 2:30 - 3:45
+// Ramirez T TH 2:30 - 3:45
 // Assignment 1 Main program to test Movie class with myDB class
 
 import java.util.*;
