@@ -1,4 +1,4 @@
-// Alessio Mazzone
+
 // 445 Data Structures, Ramires T TH 2:30-3:45
 // ASSIGNMENT 4
 // This is the pilot program for assignment 4.
