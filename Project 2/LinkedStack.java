@@ -1,4 +1,4 @@
-//CS445     Alessio Mazzone     Assignment 2    Ramirez T,TH 2:30-3:45
+//CS445      Assignment 2    Ramirez T,TH 2:30-3:45
 
 //This is the linked stack in order to simulate a stack of boxes. implements the stack interface
 
