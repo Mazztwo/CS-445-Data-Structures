@@ -1,4 +1,4 @@
-//CS445     Alessio Mazzone     Assignment 2    Ramirez T,TH 2:30-3:45
+//CS445  Assignment 2    Ramirez T,TH 2:30-3:45
 //Main program of assig 2. This program will act as the store, simulating various activities
 //based on the file inputed through the commandprompt
 
