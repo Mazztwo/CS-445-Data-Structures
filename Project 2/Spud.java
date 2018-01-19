@@ -1,4 +1,4 @@
-//CS445      Assignment 2    Ramirez T,TH 2:30-3:45
+
 //This class represents a single box of potatoes as a Spud objects. It contains three data
 //fields: supplier, expirationDate, and cost. 
 
