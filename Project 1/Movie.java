@@ -1,6 +1,5 @@
-// CS 0445 Spring 2014
-// Ramirez T TH 2:30 - 3:45
-// Assignment 1 Movie Class
+// Spring 2014
+// Movie Class
 
 
 import java.io.*;
