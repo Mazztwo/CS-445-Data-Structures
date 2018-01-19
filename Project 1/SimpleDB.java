@@ -1,9 +1,8 @@
-// CS 0445 Spring 2014
+// Spring 2014
 
 
-// Assignment 1 SimpleDB<T> interface
-// Carefully read the specifications for each of the operations and
-// implement them correctly in your MyDB<T> class.
+// SimpleDB<T> interface
+
 
 // Since SimpleDB<T> is an interface, there is no implicit requirement for
 // the physical storage of the actual data.  However, for Assignment 1 you
@@ -16,13 +15,7 @@ public interface SimpleDB<T>
 {
 	// Add a new item to the SimpleDB in the next available location.  If
 	// all goes well, return true.
-	// IMPLEMENTATION REQUIREMENT:  Although the interface shown here does not
-	// require any specific implementation, for Assignment 1 you are required to use
-	// an underlying array for your data.  If the underlying array is full when you
-	// attempt an addItem(), you are required to double the size of the underlying
-	// array, and to output a message stating what the new size is.  Based on this
-	// requirement, the addItem() method should always succeed, barring some
-	// catastrophic error.
+	
 	public boolean addItem(T item);
 	
 	// Find, remove and return the item matching the argument in the SimpleDB.  Use the
