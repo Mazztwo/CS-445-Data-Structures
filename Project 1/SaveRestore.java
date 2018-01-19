@@ -1,4 +1,4 @@
-// CS 0445 Spring 2014
+// Spring 2014
 
 // SaveRestore interface.  This interface allows the contents of the
 // current collection of data to be written to a file as objects using
