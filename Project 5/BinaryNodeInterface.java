@@ -1,5 +1,4 @@
-/
- * An interface for a node in a binary tree.
+/* An interface for a node in a binary tree.
  * 
  * @author Frank M. Carrano
  * @version 2.0
