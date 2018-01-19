@@ -2,8 +2,7 @@
 
 
 // Reverser interface
-// Carefully read the specifications for the method below and
-// implement it in your MyDB class
+
 
 public interface Reverser
     {
