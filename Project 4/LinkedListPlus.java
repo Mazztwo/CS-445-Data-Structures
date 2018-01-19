@@ -1,5 +1,4 @@
-// CS 445 Ramirez T,TH 230-345
-// Assignment 4
+
 //LinkedListPlus class. It extends A4LList and adds extra functionality with a few other methods
 
 
