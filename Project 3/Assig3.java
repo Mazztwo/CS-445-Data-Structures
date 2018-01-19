@@ -1,8 +1,7 @@
-// CS 0445 Spring 2014
-// Assig3 driver program.  This program must work as is with your
-// MyDB class.   Note that this program is primarily testing the additional
-// methods showMode() and isSorted().  Use Assig1A.java (the same program from
-// Assignment 1) to test the other recursive methods.
+
+// Assig3 driver program.  This program must work as is with 
+// MyDB class.   
+
 public class Assig3
 {
 	public static <T> void testSort(MyDB<T> db)
