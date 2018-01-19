@@ -5,11 +5,7 @@
 
 
 // Since SimpleDB<T> is an interface, there is no implicit requirement for
-// the physical storage of the actual data.  However, for Assignment 1 you
-// are required to use a Java array as your underlying data in MyDB<T>
-// class.  You MAY NOT use ArrayList, Vector or any predefined collection
-// class for your MyDB<T> data.  However, you may want to use some
-// additional instance variables to keep track of the data effectively.
+// the physical storage of the actual data.  
 
 public interface SimpleDB<T>
 {
