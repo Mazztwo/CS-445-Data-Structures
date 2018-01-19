@@ -1,7 +1,7 @@
-// CS 0445 Spring 2014
+// Spring 2014
 
 
-// Assignment 1 Reverser interface
+// Reverser interface
 // Carefully read the specifications for the method below and
 // implement it in your MyDB class
 
