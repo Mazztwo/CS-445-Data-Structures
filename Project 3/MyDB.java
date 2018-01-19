@@ -1,6 +1,6 @@
-// CS 0445 Spring 2014
-//  T TH 2:30 - 3:45
-// Assignment 1 MyDB Class
+// MyDB Class
+
+
 import java.util.Arrays;
 import java.io.*;
 
