@@ -1,9 +1,7 @@
 // Spring 2014
 
-// Assig1A driver program.  This program must work as is with your
-// MyDB class.  Look carefully at all of the method calls so that
-// you create your MyDB methods correctly.  For example, note the
-// constructor calls and the toString() method calls.
+// Assig1A driver program.  This program must work as is with 
+// MyDB class.  
 
 public class Assig1A
 {
