@@ -1,6 +1,5 @@
 	
-// CS 445 Ramirez T,TH 230-345
-// Assignment 4
+
 // ReallyLongInt class. Extenrs the LinkedListPlus and adds more methods. Also uses comparable
 
 import java.util.*;
@@ -46,7 +45,7 @@ public class ReallyLongInt extends LinkedListPlus<Integer> implements Comparable
 	// number, then traverse it to add the digits to a StringBuilder, then
 	// reverse it again.  This seems like a lot of work, but accessing the list
 	// from back to front using repeated calls to the getEntry() method is actually
-	// much more work -- we will discuss this in lecture after break.
+	// much more work.
 	public String toString()
 	{
 		StringBuilder sb = new StringBuilder();
