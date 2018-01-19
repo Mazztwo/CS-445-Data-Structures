@@ -1,6 +1,6 @@
-//CS445      Assignment 2    Ramirez T,TH 2:30-3:45
 
-//This is the linked stack in order to simulate a stack of boxes. implements the stack interface
+
+//This is the linked stack in order to simulate a stack of boxes. Implements the stack interface
 
 public class LinkedStack<T> implements StackInterface<T>
 {
