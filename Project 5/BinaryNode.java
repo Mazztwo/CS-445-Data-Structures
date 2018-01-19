@@ -1,17 +1,4 @@
-// CS 0445 Spring 2014
-// I took the author's BinaryNode class and added the traversal methods to it
-// to demonstrate their functionality.  See the added methods at the bottom
-// of this file.  Note that this class is within a package.  For information on
-// creating and using Java packages, see:
-// http://java.sun.com/docs/books/tutorial/java/package
-// Since the class was not meant to be used outside of the package, it was
-// declared by the author with "package access", which is the default in Java.
-// (i.e. no keyword appeared before the class name).  However, I have changed
-// the declaration to public, so that I can use this class in my Example14.java
-// handout.
-//      Note that the BinaryNode class alone is enough to implement a binary
-// tree, if we don't want a separate level of abstraction for the tree class.
-// This is demonstrated in Example14.java
+
 
 /**
  * A class that represents nodes in a binary tree.
