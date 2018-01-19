@@ -1,12 +1,11 @@
-// CS 0445 Spring 2014
-// This implementation is mostly taken from the Carrono LList.  It is modified
-// for Assignment 4.  This code MUST BE USED AS IS for Assignment 4.
+// his implementation is mostly taken from the Carrono textbook LList.  
 
 /**
    A linked implementation of the ADT list.
    @author Frank M. Carrano
    @version 2.0
 */
+
 public class A4LList<T> 
 {
 	protected Node firstNode; // reference to first node
