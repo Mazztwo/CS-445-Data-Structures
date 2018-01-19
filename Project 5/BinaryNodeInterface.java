@@ -1,7 +1,4 @@
-// CS 0445 Spring 2013
-// Author's BinaryNodeInterface<T> interface.
-// Note that the author has made it part of a package.
-/**
+/
  * An interface for a node in a binary tree.
  * 
  * @author Frank M. Carrano
