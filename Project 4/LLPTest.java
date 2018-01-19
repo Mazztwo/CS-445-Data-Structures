@@ -1,15 +1,7 @@
-// CS 0445 Spring 2014
-// Test program for your LinkedListPlus class -- for full credit you CANNOT MODIFY
-// this code in ANY WAY.
 
-// This program should execute without error and produce output identical to
-// the output shown on the Web site.  If your output does not match mine, think
-// carefully about what your operations are doing and trace them to find the
-// problem.
+// Test program for  LinkedListPlus class
 
-// If your output does not match mine, or if you must change this file to get
-// your code to work, you will lose credit, but you can still get PARTIAL
-// credit for your work, so be sure to turn something in no matter what!
+
 
 import java.util.*;
 
