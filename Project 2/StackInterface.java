@@ -1,4 +1,4 @@
-//CS445      Assignment 2    Ramirez T,TH 2:30-3:45
+
 //This is the stack interface to implement the linked stack
 
 
